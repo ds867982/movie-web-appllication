@@ -1,6 +1,6 @@
 # MOVIE RATING AND OVERVIEW GIVER
 
-This web app is inspired from websites like ibdm tbdm
+This web app is inspired from websites like imdb tbdm
 
 # HOW TO USE ?
 
