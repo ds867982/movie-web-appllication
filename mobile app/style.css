@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
 
 :root {
-  --primary-color: #000000;
+  --primary-color: #15dbad ;
   --secondary-color: #31345826;
 }
 
@@ -32,7 +32,7 @@ header {
   color: #fff;
 }
 .search::placeholder {
-  color: #7378c5;
+  color: #000000;
 }
 
 .search:focus {
@@ -82,15 +82,15 @@ main {
 }
 
 .movie-info span.green {
-  color: lightgreen;
+  color:rgb(0, 0, 0) ;
 }
 
 .movie-info span.orange {
-  color: orange;
+  color:rgb(0, 0, 0) ;
 }
 
 .movie-info span.red {
-  color: red;
+  color:rgb(0, 0, 0) ;
 }
 
 .overview {
