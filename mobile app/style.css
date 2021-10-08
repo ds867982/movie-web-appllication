@@ -33,6 +33,7 @@ header {
 }
 .search::placeholder {
   color: #000000;
+  
 }
 
 .search:focus {
@@ -108,4 +109,11 @@ main {
 
 .movie:hover .overview {
   transform: translateY(0);
+}
+.footer{
+  color:#eeeeee solid;
+  font-size:large;
+  position: fixed center;
+  background-color: rgb(17, 25, 94);
+  text-aglign: center;
 }
